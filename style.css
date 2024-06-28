@@ -72,11 +72,12 @@ button {
 
 .main-hero {
   display: flex;
-  padding: 30px ;
+  padding: 50px 0;
+  gap: 20px;
 }
 
-.hero-info {
-  /*flex-shrink: 0;*/
+.hero-image {
+  overflow: auto;
 }
 
 .info-section {
